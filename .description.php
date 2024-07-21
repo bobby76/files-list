@@ -8,3 +8,4 @@ $arComponentDescription = array(
     )
 )
 ?>
+
